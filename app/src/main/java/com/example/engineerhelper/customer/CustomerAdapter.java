@@ -14,7 +14,7 @@ import java.util.List;
 
 import android.widget.ImageButton;
 import android.widget.TextView;
-//azhheowatgsada
+//azhheowatgsadawdasd
 public class CustomerAdapter extends RecyclerView.Adapter<CustomerAdapter.CustomerViewHolder> {
 
     private List<Customer> customerList;
