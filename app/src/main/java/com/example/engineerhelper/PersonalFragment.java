@@ -18,6 +18,8 @@ import com.example.engineerhelper.databinding.FragmentPersonalBinding;
  * create an instance of this fragment.
  */
 public class PersonalFragment extends Fragment {
+
+    FragmentPersonalBinding bing;
     //private FragmentPersonalBinding binding;
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
