@@ -9,7 +9,7 @@ import android.database.sqlite.SQLiteDatabase;
 import com.example.engineerhelper.entity.Authorization;
 import com.example.engineerhelper.helper.DBHelper;
 import com.example.engineerhelper.utils.DatabaseContract;
-//ryh到此一游
+
 public class AuthorizationDAO {
     private DBHelper dbHelper;
 
